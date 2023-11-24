@@ -1,0 +1,29 @@
+.register{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+
+    .title{
+        margin-bottom: 50px;
+    }
+
+    .buttons{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 400px;
+        height: 50px;
+        margin: 30px auto 0;
+
+    }
+
+    .btn{
+        width: 200px;
+        height: 50px;
+        font-size: 18px;
+    }
+
+    a{
+        font-size: 18px;
+    }
+}
